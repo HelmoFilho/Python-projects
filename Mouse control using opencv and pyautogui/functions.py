@@ -8,7 +8,7 @@ Created on Thu Sep 24 13:24:48 2020
 import cv2
 import numpy as np
 
-def move_xy(xy, k1, k2, dx, dy, mode):
+def move_xy(xy, k1, k2, dx, dy):
     
     (x,y) = xy[0], xy[1]
     
