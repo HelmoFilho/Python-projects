@@ -104,7 +104,7 @@ while(True):
             extreme_top = tuple(hull[hull[:, :, 1].argmin()][0])
             print(defects)
             (move_x, move_y) = pyautogui.position()
-            (move_x, move_y) = functions.move_xy(extreme_top, screenWidth, screenHeight, move_x, move_y, 0)
+            (move_x, move_y) = functions.move_xy(extreme_top, screenWidth, screenHeight, move_x, move_y)
             
             if (defects == 0 or defects == 1):
                 pyautogui.moveTo(move_x, move_y)
