@@ -1,0 +1,5 @@
+jose,helmo,23,masculino,99999999999,3500,desenvolvedor
+ana,maria,35,feminino,88888888888,2200,assistente
+caio,lucas,18,masculino,77777777777,1000,jovem aprendiz
+caroline,steffany,27,feminino,66666666666,7000,engenheira
+maria,eduarda,27,feminino,66666666666,7000,juiza

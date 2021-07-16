@@ -1,0 +1,12 @@
+1. Implemente uma classe para representar uma Pessoa.
+Como atributos, nome, sobrenome, idade, sexo, CPF.
+
+
+2. Implemente uma classe para representar um Empregado, 
+utilizando herança e a classe Pessoa do item 1. 
+O Empregado tem como atributos adicionas um salário e um cargo.
+
+
+2. Escreva um script main que leia de um arquivo os dados de 
+uma lista de Empregados e calcule a folha de pagamento, ou seja, 
+some o valor dos salários de todos os empregados.
